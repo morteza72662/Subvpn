@@ -1,2 +1,2 @@
-`vless://9a916cee-569d-5311-8acf-246cb5aad0d7@gsmvpx.info:443?path=%2Fvless&security=tls&alpn=h2&encryption=none&host=8759879542btc.com&fp=chrome&type=ws&sni=gsmvpx.info#mortezatv🇮🇱
+vless://9a916cee-569d-5311-8acf-246cb5aad0d7@gsmvpx.info:443?path=%2Fvless&security=tls&alpn=h2&encryption=none&host=8759879542btc.com&fp=chrome&type=ws&sni=gsmvpx.info#mortezatv🇮🇱
 vless://9a916cee-569d-5311-8acf-246cb5aad0d7@gsmvpx.info:80?path=%2Fvless&security=none&encryption=none&host=8759879542btc.com&type=ws#mortezatv
